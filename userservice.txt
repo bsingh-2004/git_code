@@ -1,1 +1,3 @@
 take input from user
+
+create an avatar fot user
